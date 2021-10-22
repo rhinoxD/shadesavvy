@@ -12,7 +12,7 @@
   height: 50%;
 } */
 
-.ColorBox.go-back {
+/* .ColorBox.go-back {
   background-color: #000;
   position: relative;
 }
@@ -36,7 +36,7 @@
   text-transform: uppercase;
   border: none;
   text-decoration: none;
-}
+} */
 /* 
 .copy-button {
   opacity: 0;
@@ -112,7 +112,7 @@
   color: #fff;
 } */
 
-.copy-msg.show {
+/* .copy-msg.show {
   opacity: 1;
   transform: scale(1);
   z-index: 25;
@@ -133,4 +133,4 @@
 .copy-msg p {
   font-size: 2rem;
   font-weight: 100;
-}
+} */
