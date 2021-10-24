@@ -1,4 +1,6 @@
-export default {
+import sizes from './sizes';
+
+const styles = {
   Navbar: {
     display: 'flex',
     alignItems: ' center',
@@ -17,6 +19,9 @@ export default {
     '& a': {
       textDecoration: 'none',
       color: '#000',
+    },
+    [sizes.down('xs')]: {
+      display: 'none%',
     },
   },
   slider: {
@@ -40,9 +45,14 @@ export default {
         marginLeft: '-7px',
         marginTop: '-3px',
       },
+    [sizes.down('md')]: {
+      width: '150%',
+    },
   },
   selectContainer: {
     marginLeft: 'auto',
     marginRight: '1rem',
   },
 };
+
+export default styles;
