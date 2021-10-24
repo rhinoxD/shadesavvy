@@ -3,7 +3,6 @@ import PaletteMetaForm from './PaletteMetaForm';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import {
-  MenuItem,
   Toolbar,
   AppBar,
   CssBaseline,
@@ -11,7 +10,7 @@ import {
   Typography,
   Button,
 } from '@material-ui/core';
-import AddToPhotosIcon from '@material-ui/icons/AddToPhotosIcon';
+import AddToPhotosIcon from '@material-ui/icons/AddToPhotos';
 import { withStyles } from '@material-ui/styles';
 import styles from './styles/PaletteFormNavStyles';
 
