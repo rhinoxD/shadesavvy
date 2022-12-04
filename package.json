@@ -1,7 +1,6 @@
 {
   "name": "colors-app",
   "version": "0.1.0",
-  "homepage": "https://rhinoxD.github.io/colors-app",
   "private": true,
   "engines": {
     "npm": "7.24.0",
