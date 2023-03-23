@@ -1,4 +1,4 @@
-# Colors App
-A color picker application which is a clone of Material-UI colors & Flat-UI colors made using React JS, Material Ui
+# ShadeSavvy
+Discover and convert colors effortlessly with ShadeSavvy, a powerful tool that provides RGB, HSL, and HEX color codes. Find the perfect shade for your project, explore different color palettes, and convert between color codes seamlessly. 
 
-![colors](https://user-images.githubusercontent.com/86461976/150666955-4713a643-ffa2-41f5-88fe-c39fe89a7f16.png)
+![image](https://user-images.githubusercontent.com/86461976/227223576-208c6f68-a494-4ca0-92c2-cdfa665b3549.png)
