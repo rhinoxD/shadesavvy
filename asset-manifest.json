@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/colors-app/static/css/main.6bc406f4.chunk.css",
-    "main.js": "/colors-app/static/js/main.85a3e22b.chunk.js",
-    "main.js.map": "/colors-app/static/js/main.85a3e22b.chunk.js.map",
-    "runtime-main.js": "/colors-app/static/js/runtime-main.a2ca5af7.js",
-    "runtime-main.js.map": "/colors-app/static/js/runtime-main.a2ca5af7.js.map",
-    "static/css/2.8dec86d5.chunk.css": "/colors-app/static/css/2.8dec86d5.chunk.css",
-    "static/js/2.6cd09acc.chunk.js": "/colors-app/static/js/2.6cd09acc.chunk.js",
-    "static/js/2.6cd09acc.chunk.js.map": "/colors-app/static/js/2.6cd09acc.chunk.js.map",
-    "static/js/3.dca91f8e.chunk.js": "/colors-app/static/js/3.dca91f8e.chunk.js",
-    "static/js/3.dca91f8e.chunk.js.map": "/colors-app/static/js/3.dca91f8e.chunk.js.map",
-    "index.html": "/colors-app/index.html",
-    "static/css/2.8dec86d5.chunk.css.map": "/colors-app/static/css/2.8dec86d5.chunk.css.map",
-    "static/css/main.6bc406f4.chunk.css.map": "/colors-app/static/css/main.6bc406f4.chunk.css.map",
-    "static/js/2.6cd09acc.chunk.js.LICENSE.txt": "/colors-app/static/js/2.6cd09acc.chunk.js.LICENSE.txt",
-    "static/media/bg2.f55176d1.svg": "/colors-app/static/media/bg2.f55176d1.svg"
+    "main.css": "/shadesavvy/static/css/main.6bc406f4.chunk.css",
+    "main.js": "/shadesavvy/static/js/main.c4ae6d9f.chunk.js",
+    "main.js.map": "/shadesavvy/static/js/main.c4ae6d9f.chunk.js.map",
+    "runtime-main.js": "/shadesavvy/static/js/runtime-main.729872ce.js",
+    "runtime-main.js.map": "/shadesavvy/static/js/runtime-main.729872ce.js.map",
+    "static/css/2.8dec86d5.chunk.css": "/shadesavvy/static/css/2.8dec86d5.chunk.css",
+    "static/js/2.74abcdc3.chunk.js": "/shadesavvy/static/js/2.74abcdc3.chunk.js",
+    "static/js/2.74abcdc3.chunk.js.map": "/shadesavvy/static/js/2.74abcdc3.chunk.js.map",
+    "static/js/3.d9498b0b.chunk.js": "/shadesavvy/static/js/3.d9498b0b.chunk.js",
+    "static/js/3.d9498b0b.chunk.js.map": "/shadesavvy/static/js/3.d9498b0b.chunk.js.map",
+    "index.html": "/shadesavvy/index.html",
+    "static/css/2.8dec86d5.chunk.css.map": "/shadesavvy/static/css/2.8dec86d5.chunk.css.map",
+    "static/css/main.6bc406f4.chunk.css.map": "/shadesavvy/static/css/main.6bc406f4.chunk.css.map",
+    "static/js/2.74abcdc3.chunk.js.LICENSE.txt": "/shadesavvy/static/js/2.74abcdc3.chunk.js.LICENSE.txt",
+    "static/media/bg2.f55176d1.svg": "/shadesavvy/static/media/bg2.f55176d1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2ca5af7.js",
+    "static/js/runtime-main.729872ce.js",
     "static/css/2.8dec86d5.chunk.css",
-    "static/js/2.6cd09acc.chunk.js",
+    "static/js/2.74abcdc3.chunk.js",
     "static/css/main.6bc406f4.chunk.css",
-    "static/js/main.85a3e22b.chunk.js"
+    "static/js/main.c4ae6d9f.chunk.js"
   ]
 }
