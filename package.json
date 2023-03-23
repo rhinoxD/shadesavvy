@@ -1,12 +1,8 @@
 {
-  "name": "colors-app",
+  "name": "shadesavvy",
   "version": "0.1.0",
-  "homepage": "https://rhinoxD.github.io/colors-app",
+  "homepage": "https://rhinoxD.github.io/shadesavvy",
   "private": true,
-  "engines": {
-    "npm": "7.24.0",
-    "node": "14.17.1"
-  },
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
