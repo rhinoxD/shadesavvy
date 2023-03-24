@@ -1,5 +1,5 @@
-import sizes from './sizes';
-import bg from '../bg2.svg';
+import sizes from './sizes'
+// import bg from '../bg.svg';
 
 const styles = {
   '@global': {
@@ -17,11 +17,14 @@ const styles = {
     alignItems: 'flex-start',
     justifyContent: 'center',
     backgroundColor: '#1e8feb',
-    backgroundImage: `url(${bg})`,
+    // backgroundImage: `url(${bg})`,
+    backgroundImage: `url('https://w.wallhaven.cc/full/r2/wallhaven-r2e59q.jpg')`,
     overflow: 'scroll',
+    overflowX: 'hidden',
   },
   heading: {
     fontSize: '2rem',
+    // color: '#000'
   },
   container: {
     width: '50%',
@@ -60,6 +63,6 @@ const styles = {
       gridGap: '1.4rem',
     },
   },
-};
+}
 
-export default styles;
+export default styles
