@@ -16,7 +16,7 @@ const styles = {
     display: 'flex',
     alignItems: 'flex-start',
     justifyContent: 'center',
-    backgroundColor: '#1e8feb',
+    // backgroundColor: '#1e8feb',
     // backgroundImage: `url(${bg})`,
     backgroundImage: `url('https://w.wallhaven.cc/full/r2/wallhaven-r2e59q.jpg')`,
     overflow: 'scroll',
