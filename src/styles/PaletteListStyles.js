@@ -1,5 +1,5 @@
 import sizes from './sizes'
-// import bg from '../bg.svg';
+import bg from '../bgg.jpg'
 
 const styles = {
   '@global': {
@@ -17,8 +17,8 @@ const styles = {
     alignItems: 'flex-start',
     justifyContent: 'center',
     // backgroundColor: '#1e8feb',
-    // backgroundImage: `url(${bg})`,
-    backgroundImage: `url('https://w.wallhaven.cc/full/r2/wallhaven-r2e59q.jpg')`,
+    backgroundImage: `url(${bg})`,
+    // backgroundImage: `url('https://w.wallhaven.cc/full/r2/wallhaven-r2e59q.jpg')`,
     overflow: 'scroll',
     overflowX: 'hidden',
   },
