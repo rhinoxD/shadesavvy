@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shadesavvy/static/css/main.6bc406f4.chunk.css",
-    "main.js": "/shadesavvy/static/js/main.5b742899.chunk.js",
-    "main.js.map": "/shadesavvy/static/js/main.5b742899.chunk.js.map",
+    "main.js": "/shadesavvy/static/js/main.5ead2005.chunk.js",
+    "main.js.map": "/shadesavvy/static/js/main.5ead2005.chunk.js.map",
     "runtime-main.js": "/shadesavvy/static/js/runtime-main.729872ce.js",
     "runtime-main.js.map": "/shadesavvy/static/js/runtime-main.729872ce.js.map",
     "static/css/2.8dec86d5.chunk.css": "/shadesavvy/static/css/2.8dec86d5.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/shadesavvy/index.html",
     "static/css/2.8dec86d5.chunk.css.map": "/shadesavvy/static/css/2.8dec86d5.chunk.css.map",
     "static/css/main.6bc406f4.chunk.css.map": "/shadesavvy/static/css/main.6bc406f4.chunk.css.map",
-    "static/js/2.74abcdc3.chunk.js.LICENSE.txt": "/shadesavvy/static/js/2.74abcdc3.chunk.js.LICENSE.txt"
+    "static/js/2.74abcdc3.chunk.js.LICENSE.txt": "/shadesavvy/static/js/2.74abcdc3.chunk.js.LICENSE.txt",
+    "static/media/bgg.c6f60bb2.jpg": "/shadesavvy/static/media/bgg.c6f60bb2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.729872ce.js",
     "static/css/2.8dec86d5.chunk.css",
     "static/js/2.74abcdc3.chunk.js",
     "static/css/main.6bc406f4.chunk.css",
-    "static/js/main.5b742899.chunk.js"
+    "static/js/main.5ead2005.chunk.js"
   ]
 }
